@@ -1,1 +1,3 @@
 # ulma_test
+
+init
